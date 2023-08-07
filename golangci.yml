@@ -1,0 +1,26 @@
+run:
+  timeout: 5m
+
+linters:
+  disable-all: true
+  enable:
+    - asciicheck
+    - depguard
+    - errcheck
+    - exportloopref
+    - gofmt
+    - goimports
+    - gomodguard
+    - goprintffuncname
+    - gosimple
+    - govet
+    - ineffassign
+    - misspell
+    - nakedret
+    - nolintlint
+    - prealloc
+    - staticcheck
+    - typecheck
+    - unconvert
+    - unused
+    - whitespace

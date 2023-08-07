@@ -1,0 +1,10 @@
+{
+    "teamSize": 1,
+    "teamCount": 2,
+    "maxRatingSpreadToSearch": 10,
+    "maxRatingSpreadInGroup": -1,
+    "checkReadiness": true,
+    "secondsToAcceptMatch": 20,
+    "penaltyForUnacceptedMatch": false,
+    "penaltySeconds": 30
+}
